@@ -1,6 +1,6 @@
 # ML Labs Repository
 
-Welcome! This repository contains various machine learning labs, and tutorials to apply ML concepts effectively.
+Welcome! This repository contains various machine learning labs, and workshops to apply ML concepts effectively.
 
 ## Table of Contents
 
