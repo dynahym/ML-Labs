@@ -6,6 +6,7 @@ Welcome! This repository contains various machine learning labs, and workshops t
 
 - [Setup Instructions](#setup-instructions)
 - [How to Run the Labs](#how-to-run-the-labs)
+- [License and Copyright](#license-and-copyright)
 
 ## Setup Instructions
 
@@ -43,3 +44,11 @@ Each lab contains its own Jupyter notebook that can be run locally. To launch Ju
 ```bash
 jupyter notebook
 ```
+
+## License and Copyright
+
+Lab Problems:
+The lab and worshop problems are copyrighted by Abdelkrime Aries (C) 2021-2024 and are licensed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+
+Solutions:
+The solutions provided in this repository are my own work.
