@@ -14,13 +14,13 @@ To get started with the labs, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ML-Labs-Repository.git
+   git clone https://github.com/dynahym/ML-Labs.git
    ```
 
 2. Navigate to the repository folder:
 
    ```bash
-   cd ML-Labs-Repository
+   cd ML-Labs
    ```
 
 3. Set up a virtual environment (optional but recommended):
